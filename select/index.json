@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Dun Dun Dance",
+  "base_artist": "OH MY GIRL",
+  "createdAt": "2026-03-22T05:53:58.183063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dun Dun Dance",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/01_Dun_Dun_Dance_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dun Dun Dance",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/02_Dun_Dun_Dance_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dun Dun Dance Japanese ver.",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/03_Dun_Dun_Dance_Japanese_ver._OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dun Dun Dance Japanese ver. (instrumental)",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/04_Dun_Dun_Dance_Japanese_ver._(instrumental)_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dun Dun Dance Japanese version",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/05_Dun_Dun_Dance_Japanese_version_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dun Dun Dance (Dun Dun Dance)",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/06_Dun_Dun_Dance_(Dun_Dun_Dance)_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dun Dun Dance",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/07_Dun_Dun_Dance_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dun Dun Dance",
+      "artist": "오마이걸 (OH MY GIRL)",
+      "has_synced": true,
+      "path": "select/08_Dun_Dun_Dance_오마이걸_(OH_MY_GIRL).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dun Dun Dance (Japanese Ver.)",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/09_Dun_Dun_Dance_(Japanese_Ver.)_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dun Dun Dance Japanese ver.",
+      "artist": "OH MY GIRL",
+      "has_synced": false,
+      "path": "select/pl_01_Dun_Dun_Dance_Japanese_ver._OH_MY_GIRL.txt"
+    }
+  ]
+}
